@@ -1,0 +1,31 @@
+body{
+    background-color: silver;
+    color: #000120;
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+    size: 3em;
+
+}
+
+h2{
+    size: 2em;
+    color: green;
+    text-decoration: underline;
+}
+
+p{  
+    text-indent: 2em;
+    text-align: justify;
+}
+cite{
+    font-variant: small-caps;
+    letter-spacing: 0.1em;
+}
+
+dd{
+    font-weight: bold;
+}
