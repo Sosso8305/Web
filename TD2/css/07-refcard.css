@@ -68,3 +68,10 @@ ul li{
     color: orange;
     font-size: 2em;
 }
+
+img{
+    max-height: 100px;
+    max-width:150px;
+    border: 3px dashed orange;
+    
+}
