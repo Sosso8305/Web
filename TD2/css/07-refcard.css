@@ -46,3 +46,25 @@ mark{
 ul li{
     list-style-type: disc;
 }
+
+.first{
+    color: white;
+}
+
+#spe{
+    color: red;
+    text-decoration: none;
+}
+
+#spe:hover{
+    text-decoration: underline;
+}
+
+#lol{
+    font-size: 5px;
+}
+
+.end:active{
+    color: orange;
+    font-size: 2em;
+}
