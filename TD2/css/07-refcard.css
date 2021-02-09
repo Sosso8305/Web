@@ -29,3 +29,20 @@ cite{
 dd{
     font-weight: bold;
 }
+
+abbr{
+    cursor: help;
+}
+
+em{
+    font-style: italic;
+    font-weight: bold;
+}
+
+mark{
+    background-color: pink;
+}
+
+ul li{
+    list-style-type: disc;
+}
