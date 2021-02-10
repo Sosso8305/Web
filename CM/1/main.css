@@ -1,0 +1,18 @@
+#out{
+  background-color:yellow;
+  width:400px;
+  height:400PX;
+  position:relative;
+}
+
+#in{
+  background-color:red;
+   width:50px;
+  height:50PX;
+  position:relative;
+}
+
+#demo{
+   background-color:blue;
+   color:white;
+}
